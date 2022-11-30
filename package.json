@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "fish-node": "^1.0.1"
+    "fish-node": "^1.0.3"
   }
 }
