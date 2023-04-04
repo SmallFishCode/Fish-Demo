@@ -4,13 +4,14 @@
   "description": "一个开箱即用的 node 上层框架",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "SmallFish",
   "license": "ISC",
   "dependencies": {
-    "fish-node": "^1.0.3"
+    "fish-node": "^1.0.3",
+    "nodemon": "^2.0.22"
   }
 }
