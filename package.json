@@ -11,7 +11,7 @@
   "author": "SmallFish",
   "license": "ISC",
   "dependencies": {
-    "fish-node": "^1.0.3",
+    "fish-node": "^1.0.7",
     "nodemon": "^2.0.22"
   }
 }
